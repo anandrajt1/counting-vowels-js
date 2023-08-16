@@ -1,0 +1,12 @@
+.container{
+   height:300px;
+   width: 600px;
+   display: flex;
+   gap: 40px;
+   
+   justify-content: center;
+   align-items: center;
+    background-color: cadetblue;
+    margin: 50px auto;
+    border-radius: 40px;
+}
